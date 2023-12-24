@@ -1,0 +1,1 @@
+wget "https://retrieve.pskreporter.info/query?senderCallsign=CALL&appcontact=contactemailhere" --compression=auto
